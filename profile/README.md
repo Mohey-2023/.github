@@ -1,4 +1,4 @@
-# MoHey
+# 다들 지금 모해? 우린 지금 MoHey!
 
 ## 💻 Service Summary
 ![서비스 구조도](img/서비스구조도.png)
