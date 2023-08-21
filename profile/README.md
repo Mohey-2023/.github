@@ -33,7 +33,7 @@
            <a href="https://github.com/yerimstar">
               <I>yerimstar</I>
            </a>
-           <p>팀장, UI/UX, BE, MSA </p>
+           <p>팀장, UI/UX<br>BE, MSA </p>
         </td>
          <td>
            <img src="https://github.com/CHOI-JOO-YEON.png?size=100" width="100">
@@ -41,7 +41,7 @@
            <a href="https://github.com/CHOI-JOO-YEON">
               <I>CHOI-JOO-YEON</I>
            </a>
-            <p>FE, BE, MSA </p>
+            <p>FE, BE<br> MSA </p>
          </td>
          <td>
            <img src="https://github.com/ShineHyuk.png?size=100" width="100">
@@ -49,7 +49,7 @@
            <a href="https://github.com/ShineHyuk">
               <I>ShineHyuk</I>
            </a>
-          <p>FE, BE, MSA </p>
+          <p>FE, BE<br> MSA </p>
         </td>
         <td>
            <img src="https://github.com/yxalaG.png?size=100" width="100">
@@ -57,7 +57,7 @@
            <a href="https://github.com/yxalaG">
               <I>yxalaG</I>
            </a>
-          <p>UI/UX, BE, CI/CD </p>
+          <p>UI/UX, BE<br> CI/CD </p>
         </td>
         <td>
            <img src="https://github.com/rulrurara.png?size=100" width="100">
@@ -65,7 +65,7 @@
            <a href="https://github.com/rulrurara">
               <I>rulrurara</I>
            </a>
-          <p>FE, BE, CI/CD </p>
+          <p>FE, BE<br> CI/CD </p>
         </td>
         <td>
            <img src="https://github.com/Soobin-Park.png?size=100" width="100">
@@ -73,7 +73,7 @@
            <a href="https://github.com/Soobin-Park">
               <I>Soobin-Park</I>
            </a>
-           <p>FE, BE, CI/CD </p>
+           <p>FE, BE<br> CI/CD </p>
         </td>
      </tr>
   </table>
