@@ -1,7 +1,7 @@
 # MoHey
 
 ## 💻 Service Summary
-![서비스 구조도](https://github.com/Mohey-2023/.github/assets/35604947/d048797f-4c42-41a7-93ab-dbc077d7d18e)
+![서비스 구조도](img/서비스구조도.png)
 
 ## 👩🏻‍💻 Developers
 <div align="center"> 
@@ -80,7 +80,7 @@
 </div>
 
 ## ⚙️ System Architecture
-![시스템아키텍처](https://github.com/Mohey-2023/.github/assets/35604947/42eaf75b-0e7b-435c-ba0b-583e94259c5d)
+![시스템아키텍처](img/시스템아키텍처.png)
 
 ## 🔧 Skills
 <div align="center"> 
