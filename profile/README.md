@@ -39,7 +39,7 @@
            <img src="https://github.com/CHOI-JOO-YEON.png?size=100" width="100">
            <br>
            <a href="https://github.com/CHOI-JOO-YEON">
-              <I>CHOI-JOO-YEON</I>
+              <I>JOO-YEON</I>
            </a>
             <p>FE, BE<br> MSA </p>
          </td>
