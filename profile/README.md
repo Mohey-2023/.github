@@ -80,7 +80,7 @@
 </div>
 
 ## ⚙️ System Architecture
-![시스템아키텍처](img/시스템아키텍처.png)
+![시스템아키텍처](img/시스템아키텍처.png)
 
 ## 🔧 Skills
 <div align="center"> 
