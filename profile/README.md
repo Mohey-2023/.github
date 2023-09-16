@@ -10,11 +10,11 @@
 <h3 align="center">MoHey</h3>
 
 ## 시연 영상
-<center>
+<div align="center">
    <a href="https://youtu.be/58rwGny6IFA">
       <img src="http://img.youtube.com/vi/58rwGny6IFA/0.jpg"></img>
    </a>
-</center>
+</div>
 
 ## Notion 기술 공유 
    <a href="https://inky-shop-0f9.notion.site/2f2d885b08ab4edbae204f5110e35988?pvs=4">
