@@ -1,7 +1,7 @@
 # MoHey 
 ![Header](img/Header.png)
 
-<div>
+<div align="center">
 다들 지금 모해? 우린 지금 Mohey!
 
 위치 기반 인스턴트한 모임 어플
@@ -9,7 +9,9 @@
 
 ## 시연 영상
 
+<div align="center">
 [![시연 영상](http://img.youtube.com/vi/58rwGny6IFA/0.jpg)](https://youtu.be/58rwGny6IFA)
+</div>
 
 ## Notion 기술 공유 
    <a href="https://inky-shop-0f9.notion.site/2f2d885b08ab4edbae204f5110e35988?pvs=4">
