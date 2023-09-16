@@ -9,13 +9,13 @@
 </div>
 <h3 align="center">MoHey</h3>
 
-## 💻 Service Summary
+## 💻 Service Structrue
 ![서비스 구조도](img/서비스구조도.png)
 
 ## ⚙️ System Architecture
 ![시스템아키텍처](img/시스템아키텍처.png)
 
-## 🤳 시연 영상
+## 🤳 Performance Video
 <div align="center">
    <a href="https://youtu.be/58rwGny6IFA" target="_blank">
       <img src="http://img.youtube.com/vi/58rwGny6IFA/0.jpg"></img>
@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
 </div>
 
-## 📄 Notion 기술 공유 
+## 📄 Project Notion
    <a href="https://inky-shop-0f9.notion.site/2f2d885b08ab4edbae204f5110e35988?pvs=4">
        Notion Link
    </a>
@@ -136,7 +136,7 @@
 </div>
 
 
-## 🎬 홍보 영상
+## 🎬 Promotional Video
 
 <div align="center">
    <a href="https://youtu.be/bcIFNbDsXrU" target="_blank">
