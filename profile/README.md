@@ -1,9 +1,8 @@
-# MoHey 
 ![Header](img/Header.png)
 
 <div align="center">
 다들 지금 모해? 우린 지금 Mohey!
-
+\n
 위치 기반 인스턴트한 모임 어플
 </div>
 
