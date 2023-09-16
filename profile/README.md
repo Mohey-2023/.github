@@ -1,7 +1,11 @@
 ![Header](img/Header.png)
 
 <div align="center">
-다들 지금 모해? 우린 지금 Mohey!\n\n위치 기반 인스턴트한 모임 어플
+   다들 지금 모해? 우린 지금 Mohey!
+</div>
+<br/>
+<div align="center">   
+   위치 기반 인스턴트한 모임 어플
 </div>
 
 ## 시연 영상
