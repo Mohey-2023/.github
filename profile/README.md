@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center">   
-   위치 기반 인스턴트한 모임 어플
+   위치 기반 인스턴트 모임 어플
 </div>
 <h3 align="center">MoHey</h3>
 
