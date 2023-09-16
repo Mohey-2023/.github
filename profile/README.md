@@ -1,6 +1,12 @@
 # MoHey 
 ![Header](img/Header.png)
 
+<div>
+다들 지금 모해? 우린 지금 Mohey!
+
+위치 기반 인스턴트한 모임 어플
+</div>
+
 ## Notion 기술 공유 
    <a href="https://inky-shop-0f9.notion.site/2f2d885b08ab4edbae204f5110e35988?pvs=4">
        노션 기술 공유입니다.
