@@ -7,6 +7,7 @@
 <div align="center">   
    위치 기반 인스턴트한 모임 어플
 </div>
+<h3>MoHey</h3>
 
 ## 시연 영상
 
