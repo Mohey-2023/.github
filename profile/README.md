@@ -9,7 +9,7 @@
 </div>
 <h3 align="center">MoHey</h3>
 
-## 💻 Service Structrue
+## 💻 Service Structure
 ![서비스 구조도](img/서비스구조도.png)
 
 ## ⚙️ System Architecture
