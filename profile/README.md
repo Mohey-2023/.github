@@ -11,7 +11,7 @@
 
 ## 시연 영상
 <div align="center">
-   <a href="https://youtu.be/58rwGny6IFA">
+   <a href="https://youtu.be/58rwGny6IFA" target="_blank">
       <img src="http://img.youtube.com/vi/58rwGny6IFA/0.jpg"></img>
    </a>
 </div>
