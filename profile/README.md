@@ -9,14 +9,14 @@
 </div>
 <h3 align="center">MoHey</h3>
 
-## 시연 영상
+## 🤳 시연 영상
 <div align="center">
-   <a href="https://youtu.be/58rwGny6IFA target="_blank">
+   <a href="https://youtu.be/58rwGny6IFA" target="_blank">
       <img src="http://img.youtube.com/vi/58rwGny6IFA/0.jpg"></img>
    </a>
 </div>
 
-## Notion 기술 공유 
+## 📄 Notion 기술 공유 
    <a href="https://inky-shop-0f9.notion.site/2f2d885b08ab4edbae204f5110e35988?pvs=4">
        노션 기술 공유입니다.
    </a>
@@ -133,4 +133,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+</div>
+
+## 🎬 홍보 영상
+
+<div align="center">
+   <a href="https://youtu.be/bcIFNbDsXrU" target="_blank">
+      <img src="http://img.youtube.com/vi/bcIFNbDsXrU/0.jpg"></img>
+   </a>
 </div>
