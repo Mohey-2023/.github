@@ -11,7 +11,9 @@
 
 ## 시연 영상
 <center>
-[![시연 영상](http://img.youtube.com/vi/58rwGny6IFA/0.jpg)](https://youtu.be/58rwGny6IFA)
+   <a href="https://youtu.be/58rwGny6IFA">
+      <img src="http://img.youtube.com/vi/58rwGny6IFA/0.jpg"></img>
+   </a>
 </center>
 
 ## Notion 기술 공유 
