@@ -18,7 +18,7 @@
 
 ## 📄 Notion 기술 공유 
    <a href="https://inky-shop-0f9.notion.site/2f2d885b08ab4edbae204f5110e35988?pvs=4">
-       노션 기술 공유입니다.
+       Notion Link
    </a>
 
 ## 💻 Service Summary
