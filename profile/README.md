@@ -110,8 +110,8 @@
         <td>
            <img src="https://github.com/kodms08.png?size=100" width="100">
            <br>
-           <a href="https://github.com/yxalaG">
-              <I>yxalaG</I>
+           <a href="https://github.com/kodms08">
+              <I>kodms08</I>
            </a>
           <p>UI/UX, BE<br> CI/CD </p>
         </td>
