@@ -108,7 +108,7 @@
           <p>FE, BE<br> MSA </p>
         </td>
         <td>
-           <img src="https://github.com/yxalaG.png?size=100" width="100">
+           <img src="https://github.com/kodms08.png?size=100" width="100">
            <br>
            <a href="https://github.com/yxalaG">
               <I>yxalaG</I>
