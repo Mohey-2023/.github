@@ -56,7 +56,7 @@
 
 ## 📄 Project Notion
    <a href="https://inky-shop-0f9.notion.site/2f2d885b08ab4edbae204f5110e35988?pvs=4">
-       Notion Link
+       🔗Notion Link
    </a>
 
 ## 👩🏻‍💻 Developers
@@ -108,10 +108,10 @@
           <p>FE, BE<br> MSA </p>
         </td>
         <td>
-           <img src="https://github.com/kodms08.png?size=100" width="100">
+           <img src="https://github.com/imhaeunim.png?size=100" width="100">
            <br>
-           <a href="https://github.com/kodms08">
-              <I>kodms08</I>
+           <a href="https://github.com/imhaeunim">
+              <I>imhaeunim</I>
            </a>
           <p>UI/UX, BE<br> CI/CD </p>
         </td>
